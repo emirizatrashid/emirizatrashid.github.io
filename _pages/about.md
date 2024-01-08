@@ -17,7 +17,6 @@ My current project at the CTSS is in the political economy of energy transition,
 Announcements!
 ======
 
-Below is the schedule for the upcoming ASB Research Workshop:
 
 ### Research Workshop Schedule
 
