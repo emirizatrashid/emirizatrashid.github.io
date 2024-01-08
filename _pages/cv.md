@@ -57,4 +57,4 @@ Teaching
 Service and leadership
 ======
 * Organizer of the Asia School of Business Research Workshop
-* 
+
