@@ -1,4 +1,5 @@
 ---
+
 title: "Yes Minister: Do Coalition Partners Court the Prime Minister"
 collection: publications
 permalink: /publication/yes-minister-coalition
