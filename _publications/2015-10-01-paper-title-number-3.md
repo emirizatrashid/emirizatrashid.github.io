@@ -1,7 +1,7 @@
 ---
 title: "Does Increasing Turnout Lead to the Green Wave"
 collection: publications
-permalink: /publication/classfication-information-disorder
+permalink: /publication/turnout-green-wave
 excerpt: 'Joint work with Gregory Ho'
 date: 2021-02-23
 venue: 'Khazanah Research Institute'
