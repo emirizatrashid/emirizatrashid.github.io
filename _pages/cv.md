@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Here is [the link to my full CV.](emirizatrashid.github.io/files/)
+
 Education
 ======
 * B.S. Applied Mathematics, UCLA
