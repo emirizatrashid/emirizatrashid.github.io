@@ -14,7 +14,7 @@ description              : &description "Selamat datang! My name is Emir and I a
 url                      : https://emirizatrashid.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "emirizatrashid/emirizatrashid.github.io"
-teaser                   :   githubphotoa.jpg
+teaser                   :   "githubphotoa.jpg"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
