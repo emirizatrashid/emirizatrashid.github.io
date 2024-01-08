@@ -1,15 +1,14 @@
 ---
-title: "Paper Title Number 2"
+title: "Yes Minister: Do Coalition Partners Court the Prime Minister?"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+permalink: /publication/yes-minister-coalition
+excerpt: 'This paper is a master's dissertation on the implications of the anti-hopping law on cross-ministry political outcomes'
 date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+venue: 'Master's Dissertation'
+citation: 'Bin Abdul Rashid, Emir Izat. (2023). &quot; Yes Minister: Do Coalition Partners Court the Prime Minister? &quot; <i>Master's Dissertation</i>.'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+This paper is a master's dissertation on the implications of the anti-hopping law on cross-ministry political outcomes
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](http://emirizatrashid.github.io/files/lse_dissertation.pdf)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: 'Bin Abdul Rashid, Emir Izat. (2023). &quot; Yes Minister: Do Coalition Partners Court the Prime Minister? &quot; <i>Master's Dissertation</i>.'
