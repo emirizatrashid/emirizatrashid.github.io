@@ -9,6 +9,6 @@ citation: 'Bin Abdul Rashid, Emir Izat (2024). &quot; Does Increasing Turnout Le
 ---
 This paper studies the effect of turnout on religious and ethnic voting by using rainfall variation in turnout. Criticisms and comments are welcome!
 
-[Download paper here](https://emirizatrashid.github.io/files/)
+[Download paper here](https://emirizatrashid.github.io/files/Turnout_and_Ethnic_Voting.pdf)
 
 Recommended citation: 'Ho, Gregory, and Emir Izat Rashid (2021). &quot; Classification of Information Disorder.&quot; <i> Khazanah Research Institute </i>.'
