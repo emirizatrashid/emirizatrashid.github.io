@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Emir Izat bin Abdul Rashid"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Selamat datang! My name is Emir and I am currently a senior research associate at the Centre for Technology, Strategy, and Sustainability at the Asia School of Business. I earned an MSc. in Political Science and Political Economy at the London School of Economics and Political Science and a B.S. in Applied Mathematics at the University of California, Los Angeles.
+					
+My research interest is in political economy, specifically in the effects of political accountability on government expenditures. Typically, I incorporate causal inference methods and formal models in my research design.
+
+My current project at the CTSS is in the political economy of energy transition, as it represents a major obstacle in obtaining a low-carbon future. My master's dissertation at the LSE is analyzing the effects of anti-hopping laws on cross-ministry cooperation. I also organize the workshop for researchers at the Asia School of Business -- anyone interested in presenting and/or attending the workshop, contact me via email. 
 
 A data-driven personal website
 ======
