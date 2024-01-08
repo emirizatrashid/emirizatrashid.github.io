@@ -1,5 +1,5 @@
 ---
-title: "Classification of Information Disorder"
+title: "Does Increasing Turnout Lead to the Green Wave"
 collection: publications
 permalink: /publication/classfication-information-disorder
 excerpt: 'Joint work with Gregory Ho'
