@@ -7,8 +7,8 @@ date: 2024-01-08
 venue: 'Working Paper'
 citation: 'Bin Abdul Rashid, Emir Izat (2024). &quot; Does Increasing Turnout Lead to the Green Wave &quot; <i> Working Paper </i>.'
 ---
-Joint work with Gregory Ho
+This paper studies the effect of turnout on religious and ethnic voting by using rainfall variation in turnout. Criticisms and comments are welcome!
 
-[Download paper here](https://www.krinstitute.org/assets/contentMS/img/template/editor/DP%20-%20Classification%20of%20Information%20Disorder.pdf)
+[Download paper here](https://emirizatrashid.github.io/files/)
 
 Recommended citation: 'Ho, Gregory, and Emir Izat Rashid (2021). &quot; Classification of Information Disorder.&quot; <i> Khazanah Research Institute </i>.'
