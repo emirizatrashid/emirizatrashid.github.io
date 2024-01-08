@@ -2,9 +2,9 @@
 title: "Yes Minister: Do Coalition Partners Court the Prime Minister"
 collection: publications
 permalink: /publication/coalition-partners-yes-minister
-excerpt: 'This paper is a masters dissertation'
-date: 2024-01-08
-citation: 'Rashid, Emir Izat (2024). &quot; Does Increasing Turnout Lead to the Green Wave &quot; <i> Working Paper </i>.'
+excerpt: 'This paper is a masters dissertation studying the effects of the anti hopping law on cross ministry cooperation'
+date: 2023-08-17
+citation: 'Rashid, Emir Izat Abdul (2023). &quot; Yes Minister: Do Coalition Partners Court the Prime Minister &quot; <i> Working Paper </i>.'
 ---
 This paper studies the effect of turnout on religious and ethnic voting by using rainfall variation in turnout. Criticisms and comments are welcome!
 
