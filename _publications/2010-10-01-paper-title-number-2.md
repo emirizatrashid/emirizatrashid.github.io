@@ -1,8 +1,7 @@
 ---
-
 title: "Yes Minister: Do Coalition Partners Court the Prime Minister"
 collection: publications
-permalink: /publication/yes-minister-coalition
+permalink: /publications/yes-minister-coalition
 excerpt: 'This paper is a master's dissertation on the implications of the anti-hopping law on cross-ministry political outcomes'
 date: 2023-07-18
 venue: 'Master's Dissertation'
