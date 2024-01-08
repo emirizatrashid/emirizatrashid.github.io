@@ -8,6 +8,6 @@ citation: 'Rashid, Emir Izat Abdul (2023). &quot; Yes Minister: Do Coalition Par
 ---
 This paper studies the effect of turnout on religious and ethnic voting by using rainfall variation in turnout. Criticisms and comments are welcome!
 
-[Download paper here](https://emirizatrashid.github.io/files/Turnout_and_Ethnic_Voting.pdf)
+[Download paper here](https://emirizatrashid.github.io/files/lse_dissertation.pdf)
 
-Recommended citation: 'Rashid, Emir Izat (2024). &quot; Does Increasing Turnout Lead to the Green Wave &quot; <i> Working Paper </i>.'
+Recommended citation: 'Rashid, Emir Izat Abdul (2023). &quot; Yes Minister: Do Coalition Partners Court the Prime Minister &quot; <i> Working Paper </i>.'
