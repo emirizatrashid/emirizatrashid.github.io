@@ -1,5 +1,5 @@
 ---
-title: "Does Increasing Turnouts Lead to the 'Green Wave'"
+title: "Does Increasing Turnouts Lead to the Green Wave"
 collection: publications
 permalink: /publication/turnouts-green-wave
 excerpt: 'This paper studies the effect of turnout on religious and ethnic voting by using rainfall variation in turnout.'
