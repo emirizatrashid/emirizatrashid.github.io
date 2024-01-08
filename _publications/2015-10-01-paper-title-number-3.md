@@ -5,7 +5,7 @@ permalink: /publication/turnout-green-wave
 excerpt: 'This paper studies the effect of turnout on religious and ethnic voting by using rainfall variation in turnout.'
 date: 2024-01-08
 venue: 'Working Paper'
-citation: 'Bin Abdul Rashid, Emir Izat (2024). &quot; Classification of Information Disorder. &quot; <i> Khazanah Research Institute </i>.'
+citation: 'Bin Abdul Rashid, Emir Izat (2024). &quot; Does Increasing Turnout Lead to the Green Wave &quot; <i> Khazanah Research Institute </i>.'
 ---
 Joint work with Gregory Ho
 
