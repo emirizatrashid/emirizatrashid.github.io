@@ -2,7 +2,7 @@
 title: "Does Increasing Turnout Lead to the Green Wave"
 collection: publications
 permalink: /publication/turnout-green-wave
-excerpt: 'Joint work with Gregory Ho'
+excerpt: 'This paper studies the effect of turnout on religious and ethnic voting by using rainfall variation in turnout.'
 date: 2021-02-23
 venue: 'Khazanah Research Institute'
 citation: 'Ho, Gregory, and Emir Izat Rashid (2021). &quot; Classification of Information Disorder.&quot; <i> Khazanah Research Institute </i>.'
