@@ -5,7 +5,6 @@ permalink: /publication/classfication-information-disorder
 excerpt: 'Joint work with Gregory Ho'
 date: 2021-02-23
 venue: 'Khazanah Research Institute'
-paperurl: '[Click here to read](https://www.krinstitute.org/assets/contentMS/img/template/editor/DP%20-%20Classification%20of%20Information%20Disorder.pdf)'
 citation: 'Ho, Gregory, and Emir Izat Rashid (2021). &quot; Classification of Information Disorder.&quot; <i> Khazanah Research Institute </i>.'
 ---
 Joint work with Gregory Ho
