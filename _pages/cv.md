@@ -11,30 +11,30 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. Applied Mathematics, UCLA
+* MSc. Political Science and Political Economy, LSE
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Current: Senior Research Associate
+  * Asia School of Business
+  * Center for Technology, Strategy, and Sustainability (CTSS)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+ * Summer 2022: Research Intern
+  * Institute of Strategic and International Studies
+
+* Summer 2021: Research Assistant
+  * Asia School of Business
+  * Supervisor: Triwit Ariyathugun
+
+* Summer 2020: Research Intern
+  * Khazanah Research Institute
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* R
+* Python
+* ArcGIS
 
 Publications
 ======
@@ -56,4 +56,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Organizer of the Asia School of Business Research Workshop
+* 
