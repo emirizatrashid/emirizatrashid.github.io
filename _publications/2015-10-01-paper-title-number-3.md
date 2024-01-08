@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/turnout-green-wave
 excerpt: 'This paper studies the effect of turnout on religious and ethnic voting by using rainfall variation in turnout.'
 date: 2024-01-08
-venue: 'Khazanah Research Institute'
+venue: 'Working Paper'
 citation: 'Ho, Gregory, and Emir Izat Rashid (2021). &quot; Classification of Information Disorder.&quot; <i> Khazanah Research Institute </i>.'
 ---
 Joint work with Gregory Ho
