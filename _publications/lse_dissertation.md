@@ -2,7 +2,7 @@
 title: "Yes Minister: Do Coalition Partners Court the Prime Minister"
 collection: publications
 permalink: /publication/coalition-partners-yes-minister
-excerpt: 'This paper is a master's dissertation'
+excerpt: 'This paper is a masters dissertation'
 date: 2024-01-08
 citation: 'Rashid, Emir Izat (2024). &quot; Does Increasing Turnout Lead to the Green Wave &quot; <i> Working Paper </i>.'
 ---
