@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 3"
+title: "Does Increasing Turnouts Lead to the 'Green Wave'"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/turnouts-green-wave
+excerpt: 'This paper studies the effect of turnout on religious and ethnic voting by using rainfall variation in turnout.'
+date: 2024-01-08
+venue: 'Working Paper'
+paperurl: 'http://emirizatrashid.github.io/files/Turnout_and_Ethnic_Voting.pdf'
+citation: 'Bin Abdul Rashid, Emir Izat (2024). &quot;Does Increasing Turnouts Lead to the 'Green Wave'&quot; <i>Working Paper</i>.'
 ---
-This paper is about the number 3. The number 4 is left for future work.
+This paper studies the effect of turnout on religious and ethnic voting by using rainfall variation in turnout. Any criticism or advice is welcomed!
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+[Download paper here](http://emirizatrashid.github.io/files/Turnout_and_Ethnic_Voting.pdf)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Recommended citation: Bin Abdul Rashid, Emir Izat (2024). &quot;Does Increasing Turnouts Lead to the 'Green Wave'&quot; <i>Working Paper</i>.
