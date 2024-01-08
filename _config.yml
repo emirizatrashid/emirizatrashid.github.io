@@ -7,19 +7,19 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Emir Izat bin Abdul Rashid"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Emir Izat bin Abdul Rashid"
+description              : &description "Selamat datang! My name is Emir and I am currently a senior research associate at the Centre for Technology, Strategy, and Sustainability at the Asia School of Business. I earned an MSc. in Political Science and Political Economy at the London School of Economics and Political Science and a B.S. in Applied Mathematics at the University of California, Los Angeles. My research interest is in political economy, specifically in the effects of political accountability on government expenditures. Typically, I incorporate causal inference methods and formal models in my research design. My current project at the CTSS is in the political economy of energy transition, as it represents a major obstacle in obtaining a low-carbon future. My master's dissertation at the LSE is analyzing the effects of anti-hopping laws on cross-ministry cooperation."
+url                      : https://emirizatrashid.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "emirizatrashid/emirizatrashid.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
-talkmap_link             : false #change to true to add link to talkmap on talks page
+talkmap_link             : true #change to true to add link to talkmap on talks page
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : emirizatrashid
 facebook:
   username               :
   app_id                 :
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Emir Izat bin Abdul Rashid"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  bio              : "Senior Research Associate"
+  location         : "Kuala Lumpur"
+  employer         : "Asia School of Business"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=VOz0zUEAAAAJ&hl=en&oi=ao"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -100,16 +100,16 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "emirizatrashid"
   vine             :
   weibo            :
   xing             :
