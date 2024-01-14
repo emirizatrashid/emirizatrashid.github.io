@@ -22,7 +22,6 @@ Announcements!
 
 | Workshop          | Presenter  |     Date and Location                                                       |
 | --------         | ------ | ------------------------------------------------------------ |
-| Building a CV and Professional Website   | [Dr. Melati Nungsari](https://www.melatinungsari.com/) | MR-E3-01, 11/1/2024, 2-3 pm                     |
 | Intro to R: Using ChatGPT to Improve Computing Skills | [Emir Izat](https://emirizatrashid.github.io/) | MR-E3-01, 24/1/2024, 2-3pm                          |
 
 Contact me via email if you are interested in presenting and/or attending!
