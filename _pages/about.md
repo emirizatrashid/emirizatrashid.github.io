@@ -22,7 +22,8 @@ Announcements!
 
 | Workshop          | Presenter  |     Date and Location                                                       |
 | --------         | ------ | ------------------------------------------------------------ |
-| Intro to R: Using ChatGPT to Improve Computing Skills | [Emir Izat](https://emirizatrashid.github.io/) | MR-E3-01, 24/1/2024, 2-3pm                          |
+| Networking in Events | Ganesha Pillai | MR-E3-01, 8/2/2024, 2-3pm                          |
+| The Influence of International Branch Campuses on Regional University Research Networks: The Case of Greater Kuala Lumpur, Malaysia | [Pieter Stek](https://pstek.nl/)  | MR-E3-01, 22/2/2024, 2:30-3:30pm |
 
 Contact me via email if you are interested in presenting and/or attending!
 
