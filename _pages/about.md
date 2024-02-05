@@ -22,15 +22,13 @@ Announcements!
 
 | Workshop          | Presenter  |     Date and Location                                                       |
 | --------         | ------ | ------------------------------------------------------------ |
-| Networking in Events | Ganesha Pillai | MR-E3-01, 8/2/2024, 2-3pm                          |
+| Networking in Events | Ganesha Pillai | MR-E3-01, 8/2/2024, 1-2pm                          |
 | The Influence of International Branch Campuses on Regional University Research Networks: The Case of Greater Kuala Lumpur, Malaysia | [Pieter Stek](https://pstek.nl/)  | MR-E3-01, 22/2/2024, 2:30-3:30pm |
 | R Workshop -- topic TBD | Jia Wei Chin | MR-E3-01, 7/3/2024, 2-3 pm | 
 
 Contact me via email if you are interested in presenting and/or attending!
 
-### Call For Papers: Energy Transition in Malaysia
 
-We are still opening up calls for research papers for our center's inaugural book for energy transition. Click [here](https://res.cloudinary.com/dltpgmjmq/image/upload/q_auto:good/user-media-prod/call_for_papers_updated_n2dtwv) to find out more. The deadline of our call for papers will be on the 26th of January, 2024.
 
 
                   
