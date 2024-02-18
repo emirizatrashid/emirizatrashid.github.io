@@ -1,7 +1,7 @@
 ---
 title: "Measuring Wealth in Emerging Economies: Assessing the Reliability of Wealth Indices in Malaysia"
 collection: publications
-permalink: /publication/turnout-green-wave
+permalink: /publication/wealth-measurement
 excerpt: 'This paper studies the reliability of the Meta Relative Wealth index by using property price data'
 date: 2024-02-18
 citation: 'Rashid, Emir Izat Abdul (2024). &quot; Measuring Wealth in Emerging Economies: Assessing the Reliability of Wealth Indices in Malaysia &quot; <i> Working Paper </i>.'
