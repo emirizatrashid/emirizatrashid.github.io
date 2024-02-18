@@ -17,16 +17,20 @@ My current project at the CTSS is in the political economy of energy transition,
 Announcements!
 ======
 
+### New Working Paper Alert: [Measuring Wealth in Emerging Economies: Assessing the Reliability of Wealth Indices in Malaysia]()
+
 
 ### Research Workshop Schedule
 
 | Workshop          | Presenter  |     Date and Location                                                       |
 | --------         | ------ | ------------------------------------------------------------ |
-| Networking in Events | Ganesha Pillai | MR-E3-01, 8/2/2024, 1-2pm                          |
 | The Influence of International Branch Campuses on Regional University Research Networks: The Case of Greater Kuala Lumpur, Malaysia | [Pieter Stek](https://pstek.nl/)  | MR-E3-01, 22/2/2024, 2:30-3:30pm |
-| R Workshop -- topic TBD | Jia Wei Chin | MR-E3-01, 7/3/2024, 2-3 pm | 
+|Canva Workshop | [Zahraa Raznan](https://www.behance.net/zahraaraznan) | MR-E3-01, 7/3/2024, 2-3 pm|
+| R Workshop -- topic TBD | Jia Wei Chin | MR-E3-01, 21/3/2024, 2-3 pm | 
 
 Contact me via email if you are interested in presenting and/or attending!
+
+
 
 
 
