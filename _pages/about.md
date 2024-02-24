@@ -17,7 +17,7 @@ My current project at the CTSS is in the political economy of energy transition,
 Announcements!
 ======
 
-### New Working Paper Alert: [Measuring Wealth in Emerging Economies: Assessing the Reliability of Wealth Indices in Malaysia](https://emirizatrashid.github.io/files/Q_Q_Measuring_Wealth%20(1).pdf)
+### New Working Paper Alert: [Measuring Wealth in Emerging Economies: Assessing the Reliability of Wealth Indices in Malaysia](https://emirizatrashid.github.io/files/Q_Q_Measuring_Wealth%20(3).pdf)
 
 
 ### Research Workshop Schedule
