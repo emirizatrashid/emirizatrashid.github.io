@@ -24,8 +24,10 @@ Announcements!
 
 | Workshop          | Presenter  |     Date and Location                                                       |
 | --------         | ------ | ------------------------------------------------------------ |
-|Canva Workshop | [Zahraa Raznan](https://www.behance.net/zahraaraznan) | MR-E3-01, 7/3/2024, 2-3 pm|
 | R: How to clean and prepare survey data for analysis | Jia Wei Chin | MR-E3-01, 21/3/2024, 2-3 pm | 
+|Inverted Pyramid Writing Style Workshop | Milaine Thia | MR-E3-01, 4/4/2024, 2-3pm |
+|Green Financing Policy Diffusion in the ASEAN Region| Aimi Azman, Pieter Stek, Emir Izat | MR-E3-01, 18/4/2024|
+|TBD | Dr. Dewi binti Amat Sapuan | MR-E3-01, 2/5/2024|
 
 Contact me via email if you are interested in presenting and/or attending!
 
