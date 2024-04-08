@@ -17,7 +17,7 @@ My current project at the CTSS is in the political economy of energy transition,
 Announcements!
 ======
 
-### New Working Paper Alert: [Estimating Migrants and its Implications](https://emirizatrashid.github.io/files/Estimating_Migrants%20(4).pdf)
+### New Working Paper Alert: [Estimating Migrant Population in Malaysia and its Implications](https://emirizatrashid.github.io/files/Estimating_Migrants%20(4).pdf)
 
 
 ### Research Workshop Schedule
