@@ -24,9 +24,9 @@ Announcements!
 
 | Workshop          | Presenter  |     Date and Location                                                       |
 | --------         | ------ | ------------------------------------------------------------ |
-|Green Financing Policy Diffusion in the ASEAN Region| Aimi Azman, Pieter Stek, Emir Izat | MR-E3-01, 18/4/2024|
-|TBD | Dr. Dewi binti Amat Sapuan | MR-E3-01, 2/5/2024|
-|TBD | Dr. Yi-Ren Wang | MR-E3-01, 9/5/2024| 
+|TBD| Dr. Dewi binti Amat Sapuan |  MR-E3-01, 2/5/2024|
+|TBD | Dr. Yi-Ren Wang  | MR-E3-01, 9/5/2024|
+|Psychological First-Aid in Research Practices | Shre Maha Manohar| MR-E3-01, 23/5/2024| 
 
 Contact me via email if you are interested in presenting and/or attending!
 
