@@ -8,6 +8,6 @@ citation: 'Abdul Rashid, Emir Izat (2024). &quot; Crazy Rich Malaysians: Datuksh
 ---
 This paper is a systematic analysis of individuals receiving datukship
 
-[Download paper here](https://emirizatrashid.github.io/files/lse_dissertation.pdf)
+[Download paper here](https://emirizatrashid.github.io/files/Malaysian_Elites%20(4).pdf)
 
 Recommended citation: 'Rashid, Emir Izat Abdul (2024). &quot; Crazy Rich Malaysians: Datukship As Elite Identification  &quot; <i> Working Paper </i>.'
