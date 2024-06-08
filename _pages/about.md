@@ -22,13 +22,9 @@ Announcements!
 
 ### Research Workshop Schedule
 
-| Workshop          | Presenter  |     Date and Location                                                       |
-| --------         | ------ | ------------------------------------------------------------ |
-|TBD| Dr. Dewi binti Amat Sapuan |  MR-E3-01, 2/5/2024|
-|TBD | Dr. Yi-Ren Wang  | MR-E3-01, 9/5/2024|
-|Psychological First-Aid in Research Practices | Shre Maha Manohar| MR-E3-01, 23/5/2024| 
+On break for the summer -- contact me via email if you are interested in presenting and/or attending in the fall!
 
-Contact me via email if you are interested in presenting and/or attending!
+
 
 
 
