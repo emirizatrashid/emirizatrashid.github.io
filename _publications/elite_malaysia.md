@@ -1,4 +1,3 @@
-
 ---
 title: "Crazy Rich Malaysians: Datukship As Elite Identification"
 collection: publications
